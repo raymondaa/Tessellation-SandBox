@@ -11,4 +11,4 @@
 
 #### Pressing *Z* will render the two base triangles
 
-/examples/triangles_base.png
+![](/examples/triangles_base.png)
