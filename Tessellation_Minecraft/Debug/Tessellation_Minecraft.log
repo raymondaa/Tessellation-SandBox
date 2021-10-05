@@ -1,0 +1,478 @@
+﻿  Application.cpp
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(178,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(323,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(323,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(378,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(378,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(379,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(379,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(394,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(394,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(395,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(395,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(408,137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(408,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(408,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(408,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(408,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(408,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(408,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(408,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(413,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(413,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(414,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(414,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(415,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(415,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(416,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(416,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(420,137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(420,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(420,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(420,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(420,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(420,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(420,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(420,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(425,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(425,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(426,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(426,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(427,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(427,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(428,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(428,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(432,137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(432,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(432,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(432,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(432,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(432,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(432,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(432,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(437,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(437,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(438,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(438,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(439,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(439,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(440,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(440,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(444,137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(444,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(444,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(444,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(444,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(444,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(444,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(444,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(449,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(449,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(450,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(450,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(451,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(451,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(452,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(452,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(456,137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(456,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(456,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(456,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(456,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(456,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(456,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(456,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(461,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(461,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(462,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(462,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(463,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(463,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(464,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(464,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(468,137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(468,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(468,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(468,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(468,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(468,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(468,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(468,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(473,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(473,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(474,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(474,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(475,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(475,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(476,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(476,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(480,137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(480,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(480,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(480,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(480,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(480,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(480,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(480,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(485,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(485,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(486,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(486,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(487,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(487,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(488,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(488,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(492,137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(492,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(492,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(492,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(492,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(492,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(492,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(492,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(497,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(497,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(498,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(498,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(499,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(499,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(500,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(500,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(504,137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(504,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(504,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(504,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(504,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(504,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(504,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(504,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(509,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(509,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(510,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(510,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(511,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(511,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(512,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(512,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(573,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(573,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\strategies\cartesian\side_by_triangle.hpp(123,37): warning C4244: 'initializing': conversion from 'CoordinateType' to 'PromotedType', possible loss of data
+          with
+          [
+              CoordinateType=coordinate_type
+          ]
+          and
+          [
+              PromotedType=promoted_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\strategies\cartesian\side_by_triangle.hpp(165): message : see reference to function template instantiation 'PromotedType boost::geometry::strategy::side::side_by_triangle<CalculationType>::side_value<CoordinateType,PromotedType,P1,P2,P,EpsPolicy>(const P1 &,const P2 &,const P &,EpsPolicy &)' being compiled
+          with
+          [
+              PromotedType=promoted_type,
+              CalculationType=void,
+              CoordinateType=coordinate_type,
+              P1=robust_point_type,
+              P2=robust_point_type,
+              P=robust_point_type,
+              EpsPolicy=boost::geometry::strategy::side::side_by_triangle<void>::eps_policy<boost::geometry::math::detail::equals_factor_policy<promoted_type,true>>
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\strategies\cartesian\side_by_triangle.hpp(165): message : see reference to function template instantiation 'PromotedType boost::geometry::strategy::side::side_by_triangle<CalculationType>::side_value<CoordinateType,PromotedType,P1,P2,P,EpsPolicy>(const P1 &,const P2 &,const P &,EpsPolicy &)' being compiled
+          with
+          [
+              PromotedType=promoted_type,
+              CalculationType=void,
+              CoordinateType=coordinate_type,
+              P1=robust_point_type,
+              P2=robust_point_type,
+              P=robust_point_type,
+              EpsPolicy=boost::geometry::strategy::side::side_by_triangle<void>::eps_policy<boost::geometry::math::detail::equals_factor_policy<promoted_type,true>>
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\strategies\cartesian\side_by_triangle.hpp(260): message : see reference to function template instantiation 'PromotedType boost::geometry::strategy::side::side_by_triangle<CalculationType>::compute_side_value<coordinate_type,PromotedType,true>::apply<P1,P2,P,boost::geometry::strategy::side::side_by_triangle<CalculationType>::eps_policy<boost::geometry::math::detail::equals_factor_policy<promoted_type,true>>>(const P1 &,const P2 &,const P &,EpsPolicy &)' being compiled
+          with
+          [
+              PromotedType=promoted_type,
+              CalculationType=void,
+              P1=robust_point_type,
+              P2=robust_point_type,
+              P=robust_point_type,
+              EpsPolicy=boost::geometry::strategy::side::side_by_triangle<void>::eps_policy<boost::geometry::math::detail::equals_factor_policy<promoted_type,true>>
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\strategies\cartesian\side_by_triangle.hpp(257): message : see reference to function template instantiation 'PromotedType boost::geometry::strategy::side::side_by_triangle<CalculationType>::compute_side_value<coordinate_type,PromotedType,true>::apply<P1,P2,P,boost::geometry::strategy::side::side_by_triangle<CalculationType>::eps_policy<boost::geometry::math::detail::equals_factor_policy<promoted_type,true>>>(const P1 &,const P2 &,const P &,EpsPolicy &)' being compiled
+          with
+          [
+              PromotedType=promoted_type,
+              CalculationType=void,
+              P1=robust_point_type,
+              P2=robust_point_type,
+              P=robust_point_type,
+              EpsPolicy=boost::geometry::strategy::side::side_by_triangle<void>::eps_policy<boost::geometry::math::detail::equals_factor_policy<promoted_type,true>>
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\detail\point_is_spike_or_equal.hpp(153): message : see reference to function template instantiation 'int boost::geometry::strategy::side::side_by_triangle<CalculationType>::apply<robust_point_type,robust_point_type,robust_point_type>(const P1 &,const P2 &,const P &)' being compiled
+          with
+          [
+              CalculationType=void,
+              P1=robust_point_type,
+              P2=robust_point_type,
+              P=robust_point_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\detail\point_is_spike_or_equal.hpp(153): message : see reference to function template instantiation 'int boost::geometry::strategy::side::side_by_triangle<CalculationType>::apply<robust_point_type,robust_point_type,robust_point_type>(const P1 &,const P2 &,const P &)' being compiled
+          with
+          [
+              CalculationType=void,
+              P1=robust_point_type,
+              P2=robust_point_type,
+              P=robust_point_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\detail\overlay\append_no_dups_or_spikes.hpp(199): message : see reference to function template instantiation 'bool boost::geometry::detail::point_is_collinear<boost::geometry::model::d2::point_xy<double,boost::geometry::cs::cartesian>,boost::geometry::model::d2::point_xy<double,boost::geometry::cs::cartesian>,boost::geometry::model::d2::point_xy<double,boost::geometry::cs::cartesian>,boost::geometry::strategy::side::side_by_triangle<CalculationType>,RobustPolicy>(const Point1 &,const Point2 &,const Point3 &,const SideStrategy &,const RobustPolicy &)' being compiled
+          with
+          [
+              CalculationType=void,
+              RobustPolicy=rescale_policy_type,
+              Point1=boost::geometry::model::d2::point_xy<double,boost::geometry::cs::cartesian>,
+              Point2=boost::geometry::model::d2::point_xy<double,boost::geometry::cs::cartesian>,
+              Point3=boost::geometry::model::d2::point_xy<double,boost::geometry::cs::cartesian>,
+              SideStrategy=boost::geometry::strategy::side::side_by_triangle<void>
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\detail\overlay\traversal_ring_creator.hpp(285): message : see reference to function template instantiation 'void boost::geometry::detail::overlay::clean_closing_dups_and_spikes<ring_type,Strategy,RobustPolicy>(Range &,const Strategy &,const RobustPolicy &)' being compiled
+          with
+          [
+              Strategy=strategy_type,
+              RobustPolicy=rescale_policy_type,
+              Range=ring_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\detail\overlay\traversal_ring_creator.hpp(339): message : see reference to function template instantiation 'void boost::geometry::detail::overlay::traversal_ring_creator<false,false,boost::geometry::overlay_union,Geometry1,Geometry2,Turns,TurnInfoMap,Clusters,IntersectionStrategy,RobustPolicy,Visitor,Backtrack>::traverse_with_operation<Rings>(const boost::geometry::detail::overlay::traversal_turn_info<point_type,boost::geometry::segment_ratio<boost::long_long_type>> &,size_t,int,Rings &,size_t &,boost::geometry::detail::overlay::backtrack_check_self_intersections<Geometry1,Geometry2>::state &)' being compiled
+          with
+          [
+              Geometry1=polygon,
+              Geometry2=polygon,
+              Turns=turn_container_type,
+              TurnInfoMap=std::map<boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info,std::less<boost::geometry::ring_identifier>,std::allocator<std::pair<const boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info>>>,
+              Clusters=cluster_type,
+              IntersectionStrategy=strategy_type,
+              RobustPolicy=rescale_policy_type,
+              Visitor=boost::geometry::detail::overlay::overlay_null_visitor,
+              Backtrack=boost::geometry::detail::overlay::backtrack_check_self_intersections<polygon,polygon>,
+              Rings=ring_container_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\detail\overlay\traversal_ring_creator.hpp(337): message : see reference to function template instantiation 'void boost::geometry::detail::overlay::traversal_ring_creator<false,false,boost::geometry::overlay_union,Geometry1,Geometry2,Turns,TurnInfoMap,Clusters,IntersectionStrategy,RobustPolicy,Visitor,Backtrack>::traverse_with_operation<Rings>(const boost::geometry::detail::overlay::traversal_turn_info<point_type,boost::geometry::segment_ratio<boost::long_long_type>> &,size_t,int,Rings &,size_t &,boost::geometry::detail::overlay::backtrack_check_self_intersections<Geometry1,Geometry2>::state &)' being compiled
+          with
+          [
+              Geometry1=polygon,
+              Geometry2=polygon,
+              Turns=turn_container_type,
+              TurnInfoMap=std::map<boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info,std::less<boost::geometry::ring_identifier>,std::allocator<std::pair<const boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info>>>,
+              Clusters=cluster_type,
+              IntersectionStrategy=strategy_type,
+              RobustPolicy=rescale_policy_type,
+              Visitor=boost::geometry::detail::overlay::overlay_null_visitor,
+              Backtrack=boost::geometry::detail::overlay::backtrack_check_self_intersections<polygon,polygon>,
+              Rings=ring_container_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\detail\overlay\traverse.hpp(105): message : see reference to function template instantiation 'void boost::geometry::detail::overlay::traversal_ring_creator<false,false,boost::geometry::overlay_union,Geometry1,Geometry2,Turns,TurnInfoMap,Clusters,IntersectionStrategy,RobustPolicy,Visitor,Backtrack>::iterate<Rings>(Rings &,size_t &,boost::geometry::detail::overlay::backtrack_check_self_intersections<Geometry1,Geometry2>::state &)' being compiled
+          with
+          [
+              Geometry1=polygon,
+              Geometry2=polygon,
+              Turns=turn_container_type,
+              TurnInfoMap=std::map<boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info,std::less<boost::geometry::ring_identifier>,std::allocator<std::pair<const boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info>>>,
+              Clusters=cluster_type,
+              IntersectionStrategy=strategy_type,
+              RobustPolicy=rescale_policy_type,
+              Visitor=boost::geometry::detail::overlay::overlay_null_visitor,
+              Backtrack=boost::geometry::detail::overlay::backtrack_check_self_intersections<polygon,polygon>,
+              Rings=ring_container_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\detail\overlay\traverse.hpp(105): message : see reference to function template instantiation 'void boost::geometry::detail::overlay::traversal_ring_creator<false,false,boost::geometry::overlay_union,Geometry1,Geometry2,Turns,TurnInfoMap,Clusters,IntersectionStrategy,RobustPolicy,Visitor,Backtrack>::iterate<Rings>(Rings &,size_t &,boost::geometry::detail::overlay::backtrack_check_self_intersections<Geometry1,Geometry2>::state &)' being compiled
+          with
+          [
+              Geometry1=polygon,
+              Geometry2=polygon,
+              Turns=turn_container_type,
+              TurnInfoMap=std::map<boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info,std::less<boost::geometry::ring_identifier>,std::allocator<std::pair<const boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info>>>,
+              Clusters=cluster_type,
+              IntersectionStrategy=strategy_type,
+              RobustPolicy=rescale_policy_type,
+              Visitor=boost::geometry::detail::overlay::overlay_null_visitor,
+              Backtrack=boost::geometry::detail::overlay::backtrack_check_self_intersections<polygon,polygon>,
+              Rings=ring_container_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\detail\overlay\overlay.hpp(353): message : see reference to function template instantiation 'void boost::geometry::detail::overlay::traverse<false,false,Geometry1,Geometry2,boost::geometry::overlay_union,boost::geometry::detail::overlay::backtrack_check_self_intersections<Geometry1,Geometry2>>::apply<Strategy,RobustPolicy,turn_container_type,ring_container_type,std::map<boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info,std::less<boost::geometry::ring_identifier>,std::allocator<std::pair<const boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info>>>,cluster_type,Visitor>(const Geometry1 &,const Geometry2 &,const IntersectionStrategy &,const RobustPolicy &,Turns &,Rings &,TurnInfoMap &,Clusters &,Visitor &)' being compiled
+          with
+          [
+              Geometry1=polygon,
+              Geometry2=polygon,
+              Strategy=strategy_type,
+              RobustPolicy=rescale_policy_type,
+              Visitor=boost::geometry::detail::overlay::overlay_null_visitor,
+              IntersectionStrategy=strategy_type,
+              Turns=turn_container_type,
+              Rings=ring_container_type,
+              TurnInfoMap=std::map<boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info,std::less<boost::geometry::ring_identifier>,std::allocator<std::pair<const boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info>>>,
+              Clusters=cluster_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\detail\overlay\overlay.hpp(345): message : see reference to function template instantiation 'void boost::geometry::detail::overlay::traverse<false,false,Geometry1,Geometry2,boost::geometry::overlay_union,boost::geometry::detail::overlay::backtrack_check_self_intersections<Geometry1,Geometry2>>::apply<Strategy,RobustPolicy,turn_container_type,ring_container_type,std::map<boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info,std::less<boost::geometry::ring_identifier>,std::allocator<std::pair<const boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info>>>,cluster_type,Visitor>(const Geometry1 &,const Geometry2 &,const IntersectionStrategy &,const RobustPolicy &,Turns &,Rings &,TurnInfoMap &,Clusters &,Visitor &)' being compiled
+          with
+          [
+              Geometry1=polygon,
+              Geometry2=polygon,
+              Strategy=strategy_type,
+              RobustPolicy=rescale_policy_type,
+              Visitor=boost::geometry::detail::overlay::overlay_null_visitor,
+              IntersectionStrategy=strategy_type,
+              Turns=turn_container_type,
+              Rings=ring_container_type,
+              TurnInfoMap=std::map<boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info,std::less<boost::geometry::ring_identifier>,std::allocator<std::pair<const boost::geometry::ring_identifier,boost::geometry::detail::overlay::ring_turn_info>>>,
+              Clusters=cluster_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\detail\overlay\overlay.hpp(414): message : see reference to function template instantiation 'OutputIterator boost::geometry::detail::overlay::overlay<Geometry1,Geometry2,false,false,false,GeometryOut,boost::geometry::overlay_union>::apply<RobustPolicy,OutputIterator,Strategy,boost::geometry::detail::overlay::overlay_null_visitor>(const Geometry1 &,const Geometry2 &,const RobustPolicy &,OutputIterator,const Strategy &,Visitor &)' being compiled
+          with
+          [
+              OutputIterator=boost::geometry::range::back_insert_iterator<std::vector<polygon,std::allocator<polygon>>>,
+              Geometry1=polygon,
+              Geometry2=polygon,
+              GeometryOut=single_out,
+              RobustPolicy=rescale_policy_type,
+              Strategy=strategy_type,
+              Visitor=boost::geometry::detail::overlay::overlay_null_visitor
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\detail\overlay\overlay.hpp(414): message : see reference to function template instantiation 'OutputIterator boost::geometry::detail::overlay::overlay<Geometry1,Geometry2,false,false,false,GeometryOut,boost::geometry::overlay_union>::apply<RobustPolicy,OutputIterator,Strategy,boost::geometry::detail::overlay::overlay_null_visitor>(const Geometry1 &,const Geometry2 &,const RobustPolicy &,OutputIterator,const Strategy &,Visitor &)' being compiled
+          with
+          [
+              OutputIterator=boost::geometry::range::back_insert_iterator<std::vector<polygon,std::allocator<polygon>>>,
+              Geometry1=polygon,
+              Geometry2=polygon,
+              GeometryOut=single_out,
+              RobustPolicy=rescale_policy_type,
+              Strategy=strategy_type,
+              Visitor=boost::geometry::detail::overlay::overlay_null_visitor
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\union.hpp(416): message : see reference to function template instantiation 'OutputIterator boost::geometry::detail::overlay::overlay<Geometry1,Geometry2,false,false,false,GeometryOut,boost::geometry::overlay_union>::apply<rescale_policy_type,boost::geometry::range::back_insert_iterator<std::vector<polygon,std::allocator<polygon>>>,Strategy>(const Geometry1 &,const Geometry2 &,const RobustPolicy &,OutputIterator,const Strategy &)' being compiled
+          with
+          [
+              OutputIterator=boost::geometry::range::back_insert_iterator<std::vector<polygon,std::allocator<polygon>>>,
+              Geometry1=polygon,
+              Geometry2=polygon,
+              GeometryOut=single_out,
+              Strategy=strategy_type,
+              RobustPolicy=rescale_policy_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\union.hpp(414): message : see reference to function template instantiation 'OutputIterator boost::geometry::detail::overlay::overlay<Geometry1,Geometry2,false,false,false,GeometryOut,boost::geometry::overlay_union>::apply<rescale_policy_type,boost::geometry::range::back_insert_iterator<std::vector<polygon,std::allocator<polygon>>>,Strategy>(const Geometry1 &,const Geometry2 &,const RobustPolicy &,OutputIterator,const Strategy &)' being compiled
+          with
+          [
+              OutputIterator=boost::geometry::range::back_insert_iterator<std::vector<polygon,std::allocator<polygon>>>,
+              Geometry1=polygon,
+              Geometry2=polygon,
+              GeometryOut=single_out,
+              Strategy=strategy_type,
+              RobustPolicy=rescale_policy_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\union.hpp(457): message : see reference to function template instantiation 'void boost::geometry::resolve_strategy::union_<strategy_type,true>::apply<Geometry1,Geometry2,Collection>(const Geometry1 &,const Geometry2 &,Collection &,const Strategy &)' being compiled
+          with
+          [
+              Geometry1=polygon,
+              Geometry2=polygon,
+              Collection=std::vector<polygon,std::allocator<polygon>>,
+              Strategy=strategy_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\union.hpp(457): message : see reference to function template instantiation 'void boost::geometry::resolve_strategy::union_<strategy_type,true>::apply<Geometry1,Geometry2,Collection>(const Geometry1 &,const Geometry2 &,Collection &,const Strategy &)' being compiled
+          with
+          [
+              Geometry1=polygon,
+              Geometry2=polygon,
+              Collection=std::vector<polygon,std::allocator<polygon>>,
+              Strategy=strategy_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\union.hpp(490): message : see reference to function template instantiation 'void boost::geometry::resolve_strategy::union_<boost::geometry::default_strategy,false>::apply<Geometry1,Geometry2,Collection>(const Geometry1 &,const Geometry2 &,Collection &,boost::geometry::default_strategy)' being compiled
+          with
+          [
+              Geometry1=polygon,
+              Geometry2=polygon,
+              Collection=std::vector<polygon,std::allocator<polygon>>
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\union.hpp(692): message : see reference to function template instantiation 'void boost::geometry::resolve_variant::union_<Geometry1,Geometry2>::apply<Collection,boost::geometry::default_strategy>(const Geometry1 &,const Geometry2 &,Collection &,const Strategy &)' being compiled
+          with
+          [
+              Geometry1=polygon,
+              Geometry2=polygon,
+              Collection=std::vector<polygon,std::allocator<polygon>>,
+              Strategy=boost::geometry::default_strategy
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\algorithms\union.hpp(692): message : see reference to function template instantiation 'void boost::geometry::resolve_variant::union_<Geometry1,Geometry2>::apply<Collection,boost::geometry::default_strategy>(const Geometry1 &,const Geometry2 &,Collection &,const Strategy &)' being compiled
+          with
+          [
+              Geometry1=polygon,
+              Geometry2=polygon,
+              Collection=std::vector<polygon,std::allocator<polygon>>,
+              Strategy=boost::geometry::default_strategy
+          ]
+D:\Projects\Tessellation_Minecraft\Tessellation_Minecraft\Application.cpp(542): message : see reference to function template instantiation 'void boost::geometry::union_<polygon,polygon,std::vector<polygon,std::allocator<polygon>>>(const Geometry1 &,const Geometry2 &,Collection &)' being compiled
+          with
+          [
+              Geometry1=polygon,
+              Geometry2=polygon,
+              Collection=std::vector<polygon,std::allocator<polygon>>
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\strategies\cartesian\side_by_triangle.hpp(123,31): warning C4244: 'initializing': conversion from 'CoordinateType' to 'const PromotedType', possible loss of data
+          with
+          [
+              CoordinateType=coordinate_type
+          ]
+          and
+          [
+              PromotedType=promoted_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\strategies\cartesian\side_by_triangle.hpp(124,37): warning C4244: 'initializing': conversion from 'CoordinateType' to 'PromotedType', possible loss of data
+          with
+          [
+              CoordinateType=coordinate_type
+          ]
+          and
+          [
+              PromotedType=promoted_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\strategies\cartesian\side_by_triangle.hpp(124,31): warning C4244: 'initializing': conversion from 'CoordinateType' to 'const PromotedType', possible loss of data
+          with
+          [
+              CoordinateType=coordinate_type
+          ]
+          and
+          [
+              PromotedType=promoted_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\strategies\cartesian\side_by_triangle.hpp(125,36): warning C4244: 'initializing': conversion from 'CoordinateType' to 'PromotedType', possible loss of data
+          with
+          [
+              CoordinateType=coordinate_type
+          ]
+          and
+          [
+              PromotedType=promoted_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\strategies\cartesian\side_by_triangle.hpp(125,32): warning C4244: 'initializing': conversion from 'CoordinateType' to 'const PromotedType', possible loss of data
+          with
+          [
+              CoordinateType=coordinate_type
+          ]
+          and
+          [
+              PromotedType=promoted_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\strategies\cartesian\side_by_triangle.hpp(126,36): warning C4244: 'initializing': conversion from 'CoordinateType' to 'PromotedType', possible loss of data
+          with
+          [
+              CoordinateType=coordinate_type
+          ]
+          and
+          [
+              PromotedType=promoted_type
+          ]
+D:\Projects\Tessellation_Minecraft\Dependencies\BOOST\boost_1_76_0\boost\geometry\strategies\cartesian\side_by_triangle.hpp(126,32): warning C4244: 'initializing': conversion from 'CoordinateType' to 'const PromotedType', possible loss of data
+          with
+          [
+              CoordinateType=coordinate_type
+          ]
+          and
+          [
+              PromotedType=promoted_type
+          ]
+  Tessellation_Minecraft.vcxproj -> D:\Projects\Tessellation_Minecraft\Debug\Tessellation_Minecraft.exe
