@@ -23,7 +23,7 @@
 
 #### Pressing *A* will render the two new random triangles to play with
 
-![EX. 4](/examples/triangles_new_random.PNG)
+![EX. 4](/examples/tringles_new_random.PNG)
 
 
 ## Future Work
