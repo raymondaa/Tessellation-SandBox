@@ -4,7 +4,7 @@
 
 #### ***OpenGL*** is used as a rendering environment along with the libraries ***BOOST, GLFW, GLM, and GLEW*** for their utility functions.
 
-### ***BOOST, GLFW, GLM and GLEW*** are not included due to the large files sizes
+##### ***BOOST, GLFW, GLM and GLEW*** are not included due to the large files sizes
 
 
 ## *Examples*
